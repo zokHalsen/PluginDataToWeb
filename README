@@ -1,0 +1,7 @@
+You must have a mysql database inorder to get this working.
+All files has to be placed on a webserver that has these:
+PHP, HTML, MYSQL and make sure sockets are enabled for the future versions.
+
+links format is: "/PluginDataToWeb.php?plugin=PLUGIN-NAME"
+
+*zokHalsen Thinks github is shit so far, it doesnt commit my changes but it still tells me that commit was sucsessfull -.-'
